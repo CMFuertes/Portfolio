@@ -40,6 +40,7 @@
 #social-media ul{
     list-style-type: none;
     display: inline;
+    padding: none;
 }
 
 .social-links ul a{
@@ -53,5 +54,5 @@ list-style: none;
 li
 { 
 display:inline-block; 
+padding: 0;
 }   
-
