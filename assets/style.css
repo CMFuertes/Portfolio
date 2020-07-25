@@ -81,10 +81,11 @@
 list-style: none; 
 }
 
-#social-media ul{
+ul#social-media{
     list-style-type: none;
-    display: inline;
+    display: flex;
     padding: none;
+    justify-content: space-evenly;
 }
 
 .social-links ul a{
