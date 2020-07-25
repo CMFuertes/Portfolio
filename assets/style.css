@@ -1,10 +1,23 @@
 .project{
     background-color: #EAE7DC;
+    color: #8e8d8a;
+}
+.card-body{
+    background-color: #EAE7DC;
+    color: #8e8d8a;
+    border-color: #d8c3a5;
+}
+.col-container{
+    border-color: #d8c3a5;
 }
 
 .navbar{
     background-color: #EAE7DC;
     font-style : #8e8d8a;
+}
+.cf-design{
+    font-style: #8e8d8a;
+
 }
 .img-center{
     display: block;
@@ -36,7 +49,7 @@
     line-height: 1em;
   }
 .section{
-    padding-top:20%
+    padding-top:10%
 }
 
 .title{
@@ -60,6 +73,14 @@
     padding-top: 20%;
 } */
 
+.contact-links a{
+    color: #E85a4F;
+}
+.contact-links a:hover {
+    color: #8e8d8a;
+list-style: none; 
+}
+
 #social-media ul{
     list-style-type: none;
     display: inline;
@@ -79,3 +100,11 @@ li
 display:inline-block; 
 padding: 0;
 }   
+
+.card-img-top{
+    opacity: .5;
+}
+.card-img-top:hover{
+    opacity: 1.0;
+}
+
