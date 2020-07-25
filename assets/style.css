@@ -84,7 +84,7 @@ list-style: none;
 ul#social-media{
     list-style-type: none;
     display: flex;
-    padding: none;
+    padding: 0px;
     justify-content: space-evenly;
 }
 
