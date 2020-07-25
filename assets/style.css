@@ -33,10 +33,20 @@
     padding-top: 20%;
 } */
 
-#social-media li{
+#social-media ul{
     list-style-type: none;
+    display: inline;
 }
+
+.social-links ul a{
+    color: palevioletred;
+}
+.social-links ul a:hover {
+    color: #ca8627;
+list-style: none; 
+}
+
 li
 { 
-display:inline; 
+display:inline-block; 
 }   
