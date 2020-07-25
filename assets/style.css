@@ -1,7 +1,24 @@
+.project{
+    background-color: #EAE7DC;
+}
+
+.navbar{
+    background-color: #EAE7DC;
+    font-style : #8e8d8a;
+}
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
 .ml9 {
     position: relative;
     font-weight: 200;
     font-size: 2.5em;
+    color: #E85a4F;
   }
   
   .ml9 .text-wrapper {
@@ -24,15 +41,21 @@
 
 .title{
     padding-bottom:10px;
+    color: #E85a4F;
 }
+
+.card{
+    background-color: #EAE7DC;
+}
+
+
+
 /* #welcome{
     padding-top: 20%;
 
 }
 
-#about-me{
-    padding-top: 20%;
-}
+
 #portfolio{
     padding-top: 20%;
 } */
@@ -44,10 +67,10 @@
 }
 
 .social-links ul a{
-    color: palevioletred;
+    color: #E85a4F;
 }
 .social-links ul a:hover {
-    color: #ca8627;
+    color: #8e8d8a;
 list-style: none; 
 }
 
