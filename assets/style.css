@@ -32,3 +32,11 @@
 #portfolio{
     padding-top: 20%;
 } */
+
+#social-media li{
+    list-style-type: none;
+}
+li
+{ 
+display:inline; 
+}   
