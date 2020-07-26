@@ -5,31 +5,17 @@
 .card-body{
     background-color: #EAE7DC;
     color: #8e8d8a;
-    border-color: #d8c3a5;
-}
-.brownbtn{
-    color: #d8c3a5;
-}
-.col-container{
-    border-color: #d8c3a5;
 }
 
 .navbar{
     background-color: #EAE7DC;
-    font-style : #8e8d8a;
-}
-.cf-design{
-    font-style: #8e8d8a;
-
+    color: #8e8d8a;
 }
 .img-center{
     display: block;
     margin-left: auto;
     margin-right: auto;
-  
 }
-
-
 .ml9 {
     position: relative;
     font-weight: 200;
@@ -68,19 +54,6 @@
 .card{
     background-color: #EAE7DC;
 }
-
-
-
-/* #welcome{
-    padding-top: 20%;
-
-}
-
-
-#portfolio{
-    padding-top: 20%;
-} */
-
 .contact-links a{
     color: #E85a4F;
 }
@@ -88,14 +61,12 @@
     color: #8e8d8a;
 list-style: none; 
 }
-
 ul#social-media{
     list-style-type: none;
     display: flex;
     padding: 0px;
     justify-content: space-evenly;
 }
-
 .social-links ul a{
     color: #E85a4F;
 }
@@ -109,12 +80,10 @@ li
 display:inline-block; 
 padding: 0;
 }   
-
 .card-img-top{
     opacity: .5;
 }
 .card-img-top:hover{
     opacity: 1.0;
 }
-
 h3 { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; min-height: 15.4px; }
