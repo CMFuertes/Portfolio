@@ -7,6 +7,9 @@
     color: #8e8d8a;
     border-color: #d8c3a5;
 }
+.brownbtn{
+    color: #d8c3a5;
+}
 .col-container{
     border-color: #d8c3a5;
 }
@@ -54,7 +57,12 @@
 
 .title{
     padding-bottom:10px;
+    margin-top: 20px;
     color: #E85a4F;
+}
+.titleh3{
+    background-color: #f3e6d4;
+    color: #e98074;
 }
 
 .card{
@@ -109,3 +117,4 @@ padding: 0;
     opacity: 1.0;
 }
 
+h3 { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; min-height: 15.4px; }
