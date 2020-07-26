@@ -126,3 +126,7 @@ I deleted the other pages, and stuck with using only the index.html. Here I crea
 To add a fun element to my page, upon visiting the site, my name in the header has an animation that will only loop once, otherwise page needs to be refreshed to see it. Animation was provided by [Tobias Ahlin](https://tobiasahlin.com/moving-letters/#9)
 
 ![animatedheader](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/animatedheader.gif)
+
+After browsing for a proffesional color scheme, I came upon "Minimal Yet Warm" from [Visme](https://visme.co/blog/website-color-schemes/). 
+
+![Minimal Yet Warm Scheme](assets/images/colorschemeinspo.png)
