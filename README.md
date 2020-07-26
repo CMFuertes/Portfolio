@@ -111,3 +111,12 @@ Update your LinkedIn Profile with a strong bio statement, a professional photo, 
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+### User Story
+The project was to create an updated portfolio based on two months of acquired coding knowledge. Instead of using my previous portfolio I decided to upgrade and start fresh. 
+
+Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner and more my style. 
+
+I was inspired by Pavel Huza's porfolio, and went with a much simpler version that matched my style. 
+![](profileinspogif.gi)
+
