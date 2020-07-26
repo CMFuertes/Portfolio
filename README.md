@@ -152,3 +152,4 @@ My internet proffesional prescence has drastically been updated due to this home
 2. [GitHub Profile](https://github.com/CMFuertes)
 3. [Updated Resume](https://cmfuertes.github.io/Portfolio/assets/CristhalResume.pdf)
 4. [Updated LinkedIn](https://www.linkedin.com/in/cristhal-fuertes-8507244a/)
+5. [GitHub Repo](https://github.com/CMFuertes/Portfolio/)
