@@ -31,10 +31,10 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## Instructions
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
+1. ![Updated Portfolio](https://cmfuertes.github.io/Portfolio/)
+2. ![GitHub Profile](https://github.com/CMFuertes)
+3. ![Updated Resume](https://cmfuertes.github.io/Portfolio/assets/CristhalResume.pdf)
+4. ![Updated LinkedIn](https://www.linkedin.com/in/cristhal-fuertes-8507244a/)
 
 ### Updated Portfolio
 
@@ -117,6 +117,8 @@ The project was to create an updated portfolio based on two months of acquired c
 
 Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner and more my style. 
 
+![Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
+
 ### Inspiration
 I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my style. 
 
@@ -145,3 +147,8 @@ My linked in has now been updated along with a professional photo, as well as a 
 
 My internet proffesional prescence has drastically been updated due to this homework assignment. My long neglected LinkedIn looks tidy, and my portfolio has a more polished appearance as opposed to my first one. Portfolio is mobile-first ready with working buttons. 
 
+## Links
+1. ![Updated Portfolio](https://cmfuertes.github.io/Portfolio/)
+2. ![GitHub Profile](https://github.com/CMFuertes)
+3. ![Updated Resume](https://cmfuertes.github.io/Portfolio/assets/CristhalResume.pdf)
+4. ![Updated LinkedIn](https://www.linkedin.com/in/cristhal-fuertes-8507244a/)
