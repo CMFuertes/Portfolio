@@ -9,7 +9,7 @@ The project was to create an updated portfolio based on two months of acquired c
 Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner and more my style. 
 
 ### Inspiration
-I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my style. 
+I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my skillset. 
 
 ![pavelporfolio](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/profileinspogif.gif)
 
