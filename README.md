@@ -120,3 +120,9 @@ Initially this portfolio was to have multiple pages. However, after browsing thr
 I was inspired by Pavel Huza's porfolio, and went with a much simpler version that matched my style. 
 
 ![pavelporfolio](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/profileinspogif.gif)
+
+I deleted the other pages, and stuck with using only the index.html. Here I created four seperate sections, an intro, an about me, my portfolio, and a contact section.
+
+To add a fun element to my page, upon visiting the site, my name in the header has an animation that will only loop once, otherwise page needs to be refreshed to see it. Animation was provided by [Tobias Ahlin](https://tobiasahlin.com/moving-letters/#9)
+
+![animatedheader](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/animatedheader.gif)
