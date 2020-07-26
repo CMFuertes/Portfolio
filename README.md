@@ -117,7 +117,7 @@ The project was to create an updated portfolio based on two months of acquired c
 
 Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner and more my style. 
 
-![Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
+[Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
 
 ### Inspiration
 I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my style. 
@@ -149,6 +149,6 @@ My internet proffesional prescence has drastically been updated due to this home
 
 ## Links
 1. [Updated Portfolio](https://cmfuertes.github.io/Portfolio/)
-2. ![GitHub Profile](https://github.com/CMFuertes)
-3. ![Updated Resume](https://cmfuertes.github.io/Portfolio/assets/CristhalResume.pdf)
-4. ![Updated LinkedIn](https://www.linkedin.com/in/cristhal-fuertes-8507244a/)
+2. [GitHub Profile](https://github.com/CMFuertes)
+3. [Updated Resume](https://cmfuertes.github.io/Portfolio/assets/CristhalResume.pdf)
+4. [Updated LinkedIn](https://www.linkedin.com/in/cristhal-fuertes-8507244a/)
