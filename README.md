@@ -119,4 +119,3 @@ Initially this portfolio was to have multiple pages. However, after browsing thr
 
 I was inspired by Pavel Huza's porfolio, and went with a much simpler version that matched my style. 
 ![](profileinspogif.gif)
-![pavelporfolio](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/profileinspogif.gif)
