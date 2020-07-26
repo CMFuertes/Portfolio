@@ -148,7 +148,7 @@ My linked in has now been updated along with a professional photo, as well as a 
 My internet proffesional prescence has drastically been updated due to this homework assignment. My long neglected LinkedIn looks tidy, and my portfolio has a more polished appearance as opposed to my first one. Portfolio is mobile-first ready with working buttons. 
 
 ## Links
-1. ![Updated Portfolio](https://cmfuertes.github.io/Portfolio/)
+1. [Updated Portfolio](https://cmfuertes.github.io/Portfolio/)
 2. ![GitHub Profile](https://github.com/CMFuertes)
 3. ![Updated Resume](https://cmfuertes.github.io/Portfolio/assets/CristhalResume.pdf)
 4. ![Updated LinkedIn](https://www.linkedin.com/in/cristhal-fuertes-8507244a/)
