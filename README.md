@@ -134,6 +134,10 @@ After browsing for a proffesional color scheme, I came upon "Minimal Yet Warm" f
 
 ![Minimal Yet Warm Scheme](assets/images/colorschemeinspo.png)
 
+I created a logo for myself for "Cristhal Fuertes Designs" with use of [Tailor Brands](https://www.tailorbrands.com/). I put my new logo in my navbar, above my intro, as well as adding an icon to the webpage title tab. 
+
+![CF Design Logo](assets/images/logo_size__2_-removebg-preview.png)
+
 ### Portfolio Updates
 Navbar was created, linking each menu item to the corresponding sections. About me was updated from previous portfolio. Screenshots, as well as links were added to the portfolio displaying completed projects. Images were given an opacity styling unless hovered over. This was done to subdue the striking contrast of the color of the projects compared to color scheme of my page. Each project has a description as well as the link to the deployed repo page. 
 
