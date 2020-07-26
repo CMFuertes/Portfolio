@@ -112,21 +112,36 @@ Update your LinkedIn Profile with a strong bio statement, a professional photo, 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-### User Story
+## User Story
 The project was to create an updated portfolio based on two months of acquired coding knowledge. Instead of using my previous portfolio I decided to upgrade and start fresh. 
 
 Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner and more my style. 
 
+### Inspiration
 I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my style. 
 
 ![pavelporfolio](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/profileinspogif.gif)
 
 I deleted the other pages, and stuck with using only the index.html. Here I created four seperate sections, an intro, an about me, my portfolio, and a contact section.
 
-To add a fun element to my page, upon visiting the site, my name in the header has an animation that will only loop once, otherwise page needs to be refreshed to see it. Animation was provided by [Tobias Ahlin](https://tobiasahlin.com/moving-letters/#9)
+To add a fun element to my page, upon visiting the site, my name in the header has an animation that will only loop once, otherwise page needs to be refreshed to see it. Animation was provided by [Tobias Ahlin](https://tobiasahlin.com/moving-letters/#9). A js file was created for the sole purpose of running this animation. 
 
 ![animatedheader](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/animatedheader.gif)
 
-After browsing for a proffesional color scheme, I came upon "Minimal Yet Warm" from [Visme](https://visme.co/blog/website-color-schemes/). 
+After browsing for a proffesional color scheme, I came upon "Minimal Yet Warm" from [Visme](https://visme.co/blog/website-color-schemes/). A seperate stylesheet was made to accomodate color changes from using bootstrap. 
 
 ![Minimal Yet Warm Scheme](assets/images/colorschemeinspo.png)
+
+### Portfolio Updates
+Navbar was created, linking each menu item to the corresponding sections. About me was updated from previous portfolio. Screenshots, as well as links were added to the portfolio displaying completed projects. Images were given an opacity styling unless hovered over. This was done to subdue the striking contrast of the color of the projects compared to color scheme of my page. Each project has a description as well as the link to the deployed repo page. 
+
+Contact section has had a drastic upgrade from previous portfolio. All buttons work. Upon clicking the email link, users will find the subject line already filled in with my an email set to be sent to me. Phone number will open in cell phone keypads. A link to my updated resume as a pdf has been added. The WhatsApp button will automatically open in WhatsApp with a text ready to be sent to me. Link to gitHub has also been added, along with links to LinkedIn and Instagram. 
+
+### Profile Updates
+
+My linked in has now been updated along with a professional photo, as well as a new thorough personal statement. Github profile has also been updated with an profile picture, short bio, as well as pinned repositories. I started following other classmates as well. 
+
+### Conclusion 
+
+My internet proffesional prescence has drastically been updated due to this homework assignment. My long neglected LinkedIn looks tidy, and my portfolio has a more polished appearance as opposed to my first one. Portfolio is mobile-first ready with working buttons. 
+
