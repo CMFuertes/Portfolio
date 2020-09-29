@@ -36,6 +36,8 @@ Contact section has had a drastic upgrade from previous portfolio. All buttons w
 
 My linked in has now been updated along with a professional photo, as well as a new thorough personal statement. Github profile has also been updated with an profile picture, short bio, as well as pinned repositories. I started following other classmates as well. 
 
+09/29/2020 Update - Projects and newer homework assignments have been added to portfolio section of page. 
+
 ### Conclusion 
 
 My internet proffesional prescence has drastically been updated due to this homework assignment. My long neglected LinkedIn looks tidy, and my portfolio has a more polished appearance as opposed to my first one. Portfolio is mobile-first ready with working buttons. 
