@@ -4,9 +4,9 @@
 # Unit 08 Project 1 Homework: Professional Materials
 
 ## User Story
-The project was to create an updated portfolio based on two months of acquired coding knowledge. Instead of using my previous portfolio I decided to upgrade and start fresh. 
+The project was orignally made as a homework assignment and has since come to present my portfolio as a whole. 
 
-Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner and more my style. 
+Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner, more my style and much simpler to use. 
 
 ### Inspiration
 I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my skillset. 
@@ -37,6 +37,8 @@ Contact section has had a drastic upgrade from previous portfolio. All buttons w
 My linked in has now been updated along with a professional photo, as well as a new thorough personal statement. Github profile has also been updated with an profile picture, short bio, as well as pinned repositories. I started following other classmates as well. 
 
 09/29/2020 Update - Projects and newer homework assignments have been added to portfolio section of page. Github profile updated with pins spotlighting group projects and newer homework assignments.
+
+12/8/2020 - More projects have been added. Animations have been incorporated into the page. Introduction has been updated, and a new resume has been added. 
 
 ### Conclusion 
 
