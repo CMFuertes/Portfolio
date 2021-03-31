@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 [Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
 
 # Unit 08 Project 1 Homework: Professional Materials
