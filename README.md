@@ -1,8 +1,6 @@
 # Portfolio
 [Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
 
-# Unit 08 Project 1 Homework: Professional Materials
-
 ## User Story
 The project was orignally made as a homework assignment and has since come to present my portfolio as a whole. 
 
