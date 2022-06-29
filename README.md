@@ -2,7 +2,7 @@
 [Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
 
 ## User Story
-The project was orignally made as a homework assignment and has since come to present my portfolio as a whole. 
+
 
 Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner, more my style and much simpler to use. 
 
@@ -28,7 +28,7 @@ I created a logo for myself for "Cristhal Fuertes Designs" with use of [Tailor B
 ### Portfolio Updates
 Navbar was created, linking each menu item to the corresponding sections. About me was updated from previous portfolio. Screenshots, as well as links were added to the portfolio displaying completed projects. Images were given an opacity styling unless hovered over. This was done to subdue the striking contrast of the color of the projects compared to color scheme of my page. Each project has a description as well as the link to the deployed repo page. 
 
-Contact section has had a drastic upgrade from previous portfolio. All buttons work. Upon clicking the email link, users will find the subject line already filled in with my an email set to be sent to me. Phone number will open in cell phone keypads. A link to my updated resume as a pdf has been added. The WhatsApp button will automatically open in WhatsApp with a text ready to be sent to me. Link to gitHub has also been added, along with links to LinkedIn and Instagram. 
+Contact section has had a drastic upgrade from previous portfolio. All buttons work. Upon clicking the email link, users will find the subject line already filled in with my an email set to be sent to me. Phone number will open in cell phone keypads. A link to my updated resume as a pdf has been added.  Link to gitHub has also been added, along with links to LinkedIn. 
 
 ### Profile Updates
 
