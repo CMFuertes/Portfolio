@@ -1,12 +1,12 @@
-# Portfolio
+#Portfolio
 [Deployed Portfolio](https://cmfuertes.github.io/Portfolio/)
 
-## User Story
+#User Story
 
 
 Initially this portfolio was to have multiple pages. However, after browsing through many portfolios, I felt the single page was much cleaner, more my style and much simpler to use. 
 
-### Inspiration
+#Inspiration
 I was inspired by [Pavel Huza](http://www.pavelhuza.com/)'s porfolio, and went with a much simpler version that matched my skillset. 
 
 ![pavelporfolio](https://github.com/CMFuertes/Portfolio/blob/master/assets/images/profileinspogif.gif)
